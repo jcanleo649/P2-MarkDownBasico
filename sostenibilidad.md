@@ -14,4 +14,4 @@ La **sostenibilidad** es una forma de hacer las cosas para reducir el impacto am
  | 4 | Educación de calidad |  Busca garantizar una educación inclusiva, equitativa y de calidad, promoviendo oportunidades de aprendizaje permanente para todos. |
  | 11 | Ciudades y comunidades sostenibles | Busca lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles, abordando la creciente urbanización global. |
 
-(Assets//Captura ODS.png)
+!(Assets/Captura ODS.png)
