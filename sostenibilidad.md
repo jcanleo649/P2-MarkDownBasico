@@ -10,8 +10,14 @@ La **sostenibilidad** es una forma de hacer las cosas para reducir el impacto am
 
  | Nº ODS | Nombre | Descripción |
  | --- | --- | --- |
- | 9 | Industria innovación e infraestructura| construir infraestructuras fiables, sostenibles y resilientes, promover la industrialización inclusiva y sostenible, y fomentar la innovación y la investigación para crear una industria moderna y eficiente que sea accesible para todos, especialmente en los países menos desarrollados. 
+ | 9 | Industria innovación e infraestructura| Construir infraestructuras fiables, sostenibles y resilientes, promover la industrialización inclusiva y sostenible, y fomentar la innovación y la investigación para crear una industria moderna y eficiente que sea accesible para todos, especialmente en los países menos desarrollados. 
  | 4 | Educación de calidad |  Busca garantizar una educación inclusiva, equitativa y de calidad, promoviendo oportunidades de aprendizaje permanente para todos. |
  | 11 | Ciudades y comunidades sostenibles | Busca lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles, abordando la creciente urbanización global. |
 
-![](Assets/Captura ODS.png)
+![](Assets/CapturaODS.png)
+
+Lista de tareas con acciones sostenibles en informática.
+* [x] Apagar tu equipo si no se esta utilizando.
+* [ ] Optimizar el software
+* [ ] Uso inteligente de la nube
+* [x] Compartir recursos
