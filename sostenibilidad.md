@@ -6,7 +6,7 @@ La **sostenibilidad** es una forma de hacer las cosas para reducir el impacto am
   2. Social: Se enfoca en crear sociedades justas.
   3. Económica: Promueve un crecimiento económico que sea sostenible, rentable y equitativo.
 
->"satisfacer las necesidades del presente sin comprometer la habilidad de las futuras generaciones de satisfacer sus propias necesidades" -Comisión Brundtland.
+>"Satisfacer las necesidades del presente sin comprometer la habilidad de las futuras generaciones de satisfacer sus propias necesidades" -Comisión Brundtland.
 
  | Nº ODS | Nombre | Descripción |
  | --- | --- | --- |
@@ -14,4 +14,4 @@ La **sostenibilidad** es una forma de hacer las cosas para reducir el impacto am
  | 4 | Educación de calidad |  Busca garantizar una educación inclusiva, equitativa y de calidad, promoviendo oportunidades de aprendizaje permanente para todos. |
  | 11 | Ciudades y comunidades sostenibles | Busca lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles, abordando la creciente urbanización global. |
 
- 
+(Assets//Captura ODS.png)
